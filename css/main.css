@@ -21,10 +21,14 @@ h4 {
     font-family: "open sans";
 }
 
-h1 {
+h2 {
     font-family: "Dancing Script";
 }
 
+h6 {
+    font-family: "open sans";
+}
+
 .email {
-    size: 2rem;
+    padding: 5rem;
 }
