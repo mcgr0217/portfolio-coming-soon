@@ -4,17 +4,10 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="157px" height="115.6px" viewBox="0 0 157 115.6" style="enable-background:new 0 0 157 115.6;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#E9E9E9;}
-	.st1{fill:#FFFFFF;}
+	.st0{fill:#FFFFFF;}
 </style>
-<g>
-	<polygon class="st0" points="78,64.9 3.9,6 3.9,110.5 152,110.5 152,6 	"/>
-	<polygon class="st0" points="148.8,3.5 7.2,3.5 78,59.8 	"/>
-	<polygon class="st1" points="152,6 153.3,5 150.8,1.9 148.8,3.5 152,3.5 	"/>
-	<polygon class="st1" points="7.2,3.5 5.2,1.9 2.7,5 3.9,6 3.9,3.5 	"/>
-	<polygon class="st1" points="152,6 152,3.5 78,62.4 3.9,3.5 3.9,6 78,64.9 	"/>
-	<polygon class="st1" points="78,62.4 152,3.5 148.8,3.5 78,59.8 7.2,3.5 3.9,3.5 	"/>
-</g>
+<polygon class="st0" points="7.2,3.5 148.8,3.5 78,59.8 "/>
+<polygon class="st0" points="3.9,6 78,64.9 152,6 152,110.5 3.9,110.5 "/>
 <g>
 </g>
 <g>
