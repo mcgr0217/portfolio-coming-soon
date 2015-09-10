@@ -1,8 +1,8 @@
 .box {
     background-color: #CEF6EC;
     margin: 4rem;
-    padding: 5rem;
-    border-radius: 2em;
+    padding: 4rem;
+    border-radius: 1em;
 }
 
 .image {
@@ -11,4 +11,8 @@
 
 .type {
     padding: 2em;
+}
+
+grid {
+    margin: 0;
 }
