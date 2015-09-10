@@ -1,13 +1,10 @@
 .box {
-    background-color: #711;
-    margin: 3rem;
+    background-color: #CEF6EC;
+    margin: 4rem;
     border-radius: 2em;
 }
 
-h1 {
-    
-}
-
-h2 {
-    
+.image {
+    border-radius: 2em;
+    padding: 2em;
 }
