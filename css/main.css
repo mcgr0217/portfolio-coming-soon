@@ -2,7 +2,6 @@
     background-color: #CEF6EC;
     margin: 2rem;
     padding: 2rem;
-    border-radius: 1em;
     align-content: center;
 }
 
@@ -43,16 +42,42 @@ h6 {
 }
 
 .fb {
-    width: 5%;
+    width: 10%;
     margin: 10px;
 }
 
 .in {
-    width: 5%;
+    width: 10%;
     margin: 10px;
 }
 
 .white {
-    background-color: #fff;
     text-align: center;
+}
+
+@media only screen and (min-width: 20em) {
+    .in {
+        width: 6%;
+    }
+    .fb {
+        width: 6%;
+    }
+}
+ 
+@media only screen and (min-width: 40em) {
+    .fb {
+        width: 6%;
+    }
+    .in {
+        width: 6%;
+    }
+}
+
+@media only screen and (min-width: 60em) { 
+    .fb {
+        width: 4%
+    }
+    .in {
+        width: 4%
+    }
 }
