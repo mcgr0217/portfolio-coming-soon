@@ -6,9 +6,9 @@
 }
 
 .image {
-    padding-right: 2em;
     align-content: center;
-    margin: 0;
+    text-align: center;
+    border-radius: 6em;
 }
 
 .type {
