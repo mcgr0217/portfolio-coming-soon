@@ -51,3 +51,8 @@ h6 {
     width: 5%;
     margin: 10px;
 }
+
+.white {
+    background-color: #fff;
+    text-align: center;
+}
