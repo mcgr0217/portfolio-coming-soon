@@ -72,6 +72,9 @@ h6 {
     .in {
         width: 7%;
     }
+    .box {
+        margin: 8rem;
+    }
 }
 
 @media only screen and (min-width: 60em) { 
@@ -80,5 +83,8 @@ h6 {
     }
     .in {
         width: 4%
+    }
+    .box {
+        margin: 10rem;
     }
 }
