@@ -56,19 +56,19 @@ h6 {
 
 @media only screen and (min-width: 20em) {
     .in {
-        width: 6%;
+        width: 10%;
     }
     .fb {
-        width: 6%;
+        width: 10%;
     }
 }
  
 @media only screen and (min-width: 40em) {
     .fb {
-        width: 6%;
+        width: 7%;
     }
     .in {
-        width: 6%;
+        width: 7%;
     }
 }
 
