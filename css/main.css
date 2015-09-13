@@ -13,7 +13,7 @@ html {
     margin: 2rem;
     padding: 2rem;
     align-content: center;
-    border: 3px rgba(255,255,255,0.3);
+    border: 10px rgba(255,255,255,0.3);
 }
 
 .image {
