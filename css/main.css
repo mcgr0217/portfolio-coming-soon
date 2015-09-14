@@ -103,7 +103,7 @@ h6 {
         width: 7%;
     }
     .box {
-        margin: 8rem;
+        margin: 20rem;
     }
     body {
         padding: 4rem;
@@ -112,7 +112,7 @@ h6 {
 
 @media only screen and (min-width: 60em) { 
     .image {
-        max-width: 10%;
+        max-width: 20%;
     }
     .fb {
         width: 4%
@@ -121,7 +121,7 @@ h6 {
         width: 4%
     }
     .box {
-        margin: 10rem;
+        margin: 40rem;
     }
     body {
         padding: 6rem;
