@@ -1,6 +1,6 @@
 html {
     box-sizing: border-box;
-    background: url(../images/samantha.jpg) no-repeat center top fixed;
+    background: url(../images/nature.jpg) no-repeat center top fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -14,7 +14,7 @@ html {
 }
 
 .box {
-    background-color: #CEF6EC;
+    background-color: rgba(255,255,255,0.5);
     margin-top: 10rem;
     margin: 2rem;
     padding: 2rem;
