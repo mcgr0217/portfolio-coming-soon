@@ -24,6 +24,10 @@ H1 {
     text-align: center;
 }
 
+p {
+    font-family: 'Raleway', sans-serif;
+}
+
 .fade {
 	margin:0;
 }
