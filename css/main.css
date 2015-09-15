@@ -50,3 +50,10 @@ p {
 	width: 60px; 
 	height: auto;
 }
+
+ .socialmedia {
+ 	text-align: center;
+ 	display: block;
+    margin-left: auto;
+    margin-right: auto 
+ }
