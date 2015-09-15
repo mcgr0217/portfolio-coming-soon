@@ -41,6 +41,11 @@ p {
     font-family: "Raleway", sans-serif;
 }
 
+ul {
+ 	list-style-type: none;
+ 	padding: 0;
+}
+
 .fade {
 	margin:0;
 }
@@ -53,7 +58,7 @@ p {
 
 .social-icon {
 	margin: 1rem;
-	width: 20px; 
+	width: 60px; 
 	height: auto;
 }
 
@@ -62,4 +67,4 @@ p {
  	display: block;
     margin-left: auto;
     margin-right: auto 
- }
+}
