@@ -45,3 +45,8 @@ p {
 	transition: all 0.2s ease-in-out;
 }
 
+.social-icon {
+	margin: 1rem;
+	width: 60px; 
+	height: auto;
+}
