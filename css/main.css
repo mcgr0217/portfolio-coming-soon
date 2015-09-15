@@ -57,3 +57,7 @@ ul {
 	-webkit-transition: all 0.4s ease-in-out;
 	transition: all 0.2s ease-in-out;
 }
+
+.social-icon {
+    padding: 2rem;
+}
