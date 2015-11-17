@@ -61,3 +61,16 @@ ul {
 .social-icon {
     padding: 2rem;
 }
+
+.nav-bar {
+    height: 50px;
+    position: fixed;
+}
+
+.nav {
+	text-align:right;
+	position: fixed;
+	height: 50px;
+	font-size: 12px;
+}
+
